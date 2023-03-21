@@ -470,3 +470,75 @@ Movie
         c. Because they don't' know where the hotshots are located
     7.10. Why did one of the Granite Mountain Hotshots survive?
         d. Because he was not with his crew when they were overrun
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Week 8 
+
+HW
+    8.1. In Wikipedia, look up "Asteroid", read the intro and then scroll down to "Size distribution" and answer this question: What is the size range of asteroids?
+        c. 1-1,000 km
+    8.2. In Wikipedia, look up "Regolith" and answer this question: What is regolith?
+        c. A blanket of unconsolidated, loose deposits covering solid rock.
+    8.3. In Wikipedia, look up "Asteroid", read the intro and then scroll down to "Distribution within the Solar System", and answer this question: Where are asteroids located?
+        d. All the above
+    8.4. In Wikipedia, look up "Asteroid Belt" and answer this question: The total mass of the asteroid belt is approximately what percent of the mass of the Moon?
+        a. 3% (1/33rd the mass of the Moon)
+    8.5. In Wikipedia, look up "Comet" and answer this question: Which of the following is a characteristic of comets?
+        d. All the above
+    8.6. In Wikipedia, look up "Rubble pile" and answer this question: Most comets and small asteroids are thought to be rubble piles. Which of the following is a characteristic of a rubble pile?
+        d. All the above
+    8.7. In Wikipedia, look up "Comet", read the intro and then scroll down to "Tails", and answer this question: Which of the following is not a type of comet tail?
+        c. One made of house-sized chunks of ice and rock when comets break up as they get close to the Sun
+    8.8. In Wikipedia, look up "Comet", read the intro and then scroll down to "Tails", and answer this question: Which tail points away from the Sun?
+        b. The gas tail
+    8.10. In Wikipedia, look up "Meteor shower", read the intro and then scroll down to "Origin of meteoroid streams", and answer this question: What is the cause of meteor showers?
+        a. Streams of debris from a comet.
+    8.11. In Wikipedia, look up "Impact crater", read the intro and then scroll down to "Crater formation", and answer this question: Why are craters nearly always round?
+        c. Because they are caused be explosions.
+    8.12. In Wikipedia, look up "Impact crater" and answer this question: Which of the following is not a characteristic of impact craters?
+        c. They range from small, simple, bowl-shaped depressions to large, complex, multi-ringed impact basins.
+    8.13. In Wikipedia, look up "Clearwater Lakes", read the intro and then scroll down to "Impact Craters" (make sure to read this entire section!) and answer this question: What which of the following is not a true statement about the two Clearwater Lakes East and West?
+        b. They are the same age
+    8.14. In Wikipedia, look up "Kentland crater" and answer this question: What is unique about the Kentland impact crater?
+        a. It is in Indiana
+    8.15. In Wikipedia, look up "Shatter cone" and answer this question: What is a shatter cone?
+        d. A conical shaped fracture of rock indicative of the passage of a shock wave due to an impact.
+    8.16. In Wikipedia, look up "Cretaceous–Paleogene extinction event" and answer this question: Which of the following is an accurate statement regarding the Cretaceous–Paleogene extinction event?
+        d. All the above
+    8.17. In Wikipedia, look up "Chicxulub crater" and answer this question: The Chicxulub impact is thought to be responsible for the extinction of the dinosaurs. What is the evidence that the Chicxulub crater was due to an asteroid impact?
+        d. All the above
+    8.18. In Wikipedia, look up "Near-Earth object" and answer this question: Which of the following is not a correct statement about near-Earth objects?
+        b. There are less than 1000 known near-Earth objects of any size
+    8.19. In Wikipedia, look up "Asteroid impact avoidance" and answer this question: What is the main strategy to avoid being hit by a large near-Earth object on a collision course with Earth?
+        b. To divert it so that it does not hit us
+    8.20. In Wikipedia, look up "Double Asteroid Redirection Test" and answer this question: What was the objective of the Double Asteroid Redirection Test?
+        d. To deliberately crash a space probe into the asteroid moon Dimorphos to assess the future potential of a spacecraft impact to deflect an asteroid on a collision course with Earth.
+
+movie
+    8.1. Who first spots the comet in the sky (even if he did not recognize it was a comet)?
+        a. an amateur astronomer
+    8.2. What is on a collision course with the earth?
+        c. a comet
+    8.3. How long does the government wait after the discovery of the comet to tell the public?
+        c. a year
+    8.4. How do the astronauts plan to stop the comet from hitting the Earth?
+        d. Use nukes to blow it up or at least push it off its trajectory
+    8.5. About how big are the biggest rock chunks within the comet's coma?
+        c. Size of a small house
+    8.6. In the movie, how much time after sunlight hits a region (sunrise) does it take comet gas jets to get activated? (ignore the astronaut commentator's estimate and answer based on what actually happens in the movie)
+        a. seconds
+    8.7. What does the U.S. government plan to do to avoid extinction if the comet is going to hit?
+        a. Hide in immense caves
+    8.8. How does the US government decide who in the general public gets to be saved?
+        b. By lottery
+    8.9. About how high does the tsunami wave get that is created by the impact of the smaller comet piece? Hint: the world trade centers are 1000 ft high, use them for scale
+        c. 1000 ft
+    8.10. The far does the tsunami wave travel inland?
+        d. Ohio and Tennessee Valleys (900 km)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Week 9
+
+HW 

@@ -1,0 +1,472 @@
+Week 1
+HW
+    1.1. In Wikipedia, look up "Structure of Earth" and answer this question: Which layer of the Earth is a liquid?
+        c. The outer core
+    1.2. In Wikipedia, look up "History of Earth" and answer this question: How did the Earth form?
+        a. By accretion from the solar nebula
+    1.3. In Wikipedia, look up "Geothermal gradient" and answer this question: A young Earth was hot enough inside to melt. How did the Earth obtain the heat in its interior?
+        a. From radioactive decay
+    1.4. In Wikipedia, look up "Planetary differentiation" and answer this question: What is planetary differentiation?
+    	b. The process by which the chemical elements of a planetary body accumulate in different areas of that body.
+    1.5. In Wikipedia, look up "Plate tectonics" and answer this question: Which statement about plate tectonics is correct?
+        d. All the above
+    1.6. In Wikipedia, look up "Lithosphere" and answer this question: Which statement about Earth's lithosphere is correct?
+        d. It includes the crust and the uppermost mantle, which constitutes the hard and rigid outer layer of the Earth.
+    1.7. In Wikipedia, look up "Asthenosphere" and answer this question: What is asthenosphere?
+        c. It is the mechanically weak layer of the upper mantle that lies just below the lithosphere.
+    1.8. In Wikipedia, look up "Continental drift" and answer this question: What is the theory (or hypothesis) of continental drift? (Note: this question is purely about continental drift, not plate tectonics.)
+        a. That over time the continents move relative to each other.
+    1.9. In Wikipedia, look up "Seafloor spreading" and answer this question: What is seafloor spreading?
+        d. A process that occurs at mid-ocean ridges where new oceanic crust is formed through volcanic activity and then gradually moves away from the ridge.
+    1.10. In Wikipedia, look up "Subduction" and answer this question: What is a subduction?
+        c. It is where oceanic lithosphere is recycled into the Earth's mantle at convergent boundaries.
+    1.11. In Wikipedia, look up "Transform fault" and answer this question: What is a transform fault or transform boundary (sometimes called a strike-slip boundary)?
+        a. A fault along a plate boundary where the motion is predominantly horizontal.
+    1.12. In Wikipedia, look up "Mantle convection" and answer this question: What is a mantle convection?
+        b. The slow creeping motion of Earth's solid mantle caused by currents carrying heat from the interior to the planet's surface.
+    1.13. In Wikipedia, look up "Electromagnet" and answer this question: What happens when the wire turns are wound around a ferromagnetic material?
+        b. The magnet gets stronger
+    1.14. In Wikipedia, look up "Dynamo theory" and answer this question: How does the Earth generate its magnetic field?
+        c. Through the rotation, convection, and electrical conduction within its liquid iron outer core.
+    1.15. In Wikipedia, look up "Aurora", read the intro then scroll down to "Atmosphere", and answer this question: True or false: The northern and southern lights are caused by emission of photons in Earth's upper atmosphere from ionized (excited) nitrogen and oxygen atoms caused by the solar wind. (Be sure to read both the intro to Auroras as well as the Atmosphere section to answer this question).
+        True
+    1.16. In Wikipedia, look up "Earth's magnetic field" (be sure to look at the "Magnetic poles" section) and answer this question: True or false: The north pole of Earth's magnetic field is located in Earth's northern hemisphere.
+        False
+    1.17. In Wikipedia, look up "Dynamo theory" and answer this question: How does the Earth generate its magnetic field?
+        c. Through the rotation, convection, and electrical conduction within its liquid iron outer core.
+    1.18. In Wikipedia, look up "Geode" and answer this question: How does a geode form?
+        a. By the filling of vesicles (voids) in rocks by minerals deposited from the passage of fluids.
+    1.19. In Wikipedia, look up "Hollow Earth" and answer this question: What is the evidence that the Earth cannot be hollow inside?
+        d. All the above
+    1.20. In Wikipedia, look up "Diamond" and answer this question: At what depth do most diamonds originate from and how do they get to the surface?
+       c. Between 150 and 250 km depth and come to the surface in Kimberlite volcanic eruptions.
+
+Movie
+    1.1. In the beginning of the movie, what killed 32 people in a 10-block radius in Boston?
+        c. Pacemaker failure
+    1.2. Where does the shuttle perform an emergency landing?
+        b. In the Los Angeles River
+    1.3. Why is the Earth's magnetic field doomed?
+        a. Because the Earth's outer core has stopped spinning
+    1.4. The ship that will transport the terranauts to the core is built of what material?
+        d. Unobtainium
+    1.5. What destroys much of Rome?
+        a. Lightning
+    1.6. What do the terranauts encounter 700 miles below the surface?
+        b. A very large geode
+    1.7. What do the terranauts encounter just above the core/mantle boundary?
+        c. Very large diamonds
+    1.8. What destroys much of San Francisco?
+        b. Microwave radiation
+    1.9. How do the terranauts attempt to "restart" the core?
+        a. By detonating nuclear explosions
+    1.10. How do the surviving terranauts get back to the seafloor?
+        c. They are carried by magma flows from the core/mantle boundary
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Week 2
+
+HW
+    2.1. In Wikipedia, look up "Lists of earthquakes", read the intro then scroll down to "Largest earthquakes by magnitude", and answer this question: What is the largest earthquake by magnitude to ever be recorded?
+        a. The 1960 Valdivia, Chile earthquake
+    2.2. In Wikipedia, look up "San Andreas Fault" and answer this question: The San Andreas Fault is the boundary between which tectonics plates?
+        c. The Pacific and North American plates
+    2.3. In Wikipedia, look up "Earthquake" and answer this question: Look at the figure showing earthquake epicenters: where do most earthquakes occur?
+        b. Along the boundaries between tectonics plates
+    2.4. In Wikipedia, look up "Earthquake" and answer this question: Which of the following can earthquakes trigger?
+        d. All the above
+    2.5. In Wikipedia, look up "Elastic-rebound theory" and answer this question: In the context of earthquake, what does elastic rebound accomplish?
+        d. All the above
+    2.6. In Wikipedia, look up "Stick-slip phenomenon" and answer this question: Which of these statements applies to stick-slip behaviour?
+        d. All the above
+    2.7. In Wikipedia, look up "Earthquake", read the intro then scroll down to "Earthquake fault types", and answer this question: Where do reverse faults (also known as thrust faults) occur?
+        b. In areas where the crust is being shortened such as at a convergent boundary.
+    2.8. In Wikipedia, look up "Earthquake", read the intro then scroll down to "Earthquake fault types", and answer this question: Where do normal faults occur?
+        a. In areas where the crust is being extended such as a divergent boundary.
+    2.9. In Wikipedia, look up "Earthquake", read the intro then scroll down to "Earthquake fault types", and answer this question: Where do strike-slip faults occur?
+        2.20. In Wikipedia, look up "Seismic magnitude scales" and answer this question: What is the difference between an earthquake magnitude and its intensity?
+    2.10. In Wikipedia, look up "Earthquake", read the intro then scroll down to "Earthquake fault types", and answer this question: True or False: Rocks hotter than about 300 °C (572 °F) flow in response to stress; they do not rupture in earthquakes.
+    	True
+    2.11. In Wikipedia, look up "Hypocenter" and answer this question: What is the difference between a hypocenter and an epicenter?
+        b. A hypocenter is the location an earthquake initiates at depth, while an epicenter is the location above the hypocenter at the surface.
+    2.12. In Wikipedia, look up "P wave" and answer this question: Which of the following is a property of P waves?
+        c. They are the first signal from an earthquake to arrive at any affected location.
+    2.13. In Wikipedia, look up "S wave" and answer this question: Which of the following is a property of S waves?
+        b. They cannot travel through liquids (assume low viscosity).
+    2.14. In Wikipedia, look up "Rayleigh wave", read the intro then scroll down to the "Generation from earthquakes", and answer this question: Which of the following is a property of Rayleigh waves?
+        d. All the above
+    2.15. In Wikipedia, look up "Seismogram" and answer this question: What does a single seismogram record?
+        c. Ground motion at a measuring station as a function of time
+    2.16. In Wikipedia, look up "Earthquake location" and answer this question: How can seismograms be used to locate an earthquake?
+        a. The time difference between the P wave and S wave arrival times indicated distance
+    2.17. In Wikipedia, look up "Reflection seismology" and answer this question: Reflection seismology images the subsurface (meaning shallow surface). Which of the following is not used in these experiments?
+        c. Earthquakes
+    2.18. In Wikipedia, look up "Seismic tomography", read the intro then scroll down to "Applications", and answer this question: Seismic tomography, also known as earthquake seismology, uses earthquake to map the deep interior. Which of the following can be imaged by seismic tomography?
+        d. All the above
+    2.19. In Wikipedia, look up "Shadow zone" and answer this question: Look at the figure which shows some of the paths that P waves travel from an earthquake that occurs at 0 degrees through the Earth and explain what causes the P-wave shadow zone (region where no direct P waves are observed)?
+        b. P-waves are refracted (their direction is altered) because they slow down when they encounter the liquid outer core
+    2.20. In Wikipedia, look up "Seismic magnitude scales" and answer this question: What is the difference between an earthquake magnitude and its intensity?
+        a. Magnitude describes the size of an earthquake and intensity describes the severity of shaking.
+
+Movie
+    2.1. What is Ray's occupation?
+        b. Rescue helicopter pilot
+    2.2. According to Professor Hayes what was the largest earthquake ever recorded?
+        a. The 1960 Chilean earthquake
+    2.3. What is the theory that Professor Hayes and Dr. Kim Park are working on to predict when an earthquake is about to occur?
+        b. Well water levels drop before an earthquake
+    2.4. When the first big earthquake hits Los Angeles, where does Professor Hayes want everyone to seek shelter?
+        b. Under a desk
+    2.5. What is the worst that happens to tall buildings in Los Angeles and San Francisco during the big earthquakes?
+        d. They fall over or collapse.
+    2.6. True or False: Professor Hayes says that when the big one hits San Francisco, people on the east coast will feel it.
+    	True
+    2.7. When Ray and Emma drive up to the San Andreas Fault, what do they see (look carefully)?
+        d. All of the above
+    2.8. How does Ray first figure out that a tsunami is heading into San Francisco Bay?
+        c. He sees the tide rapidly going out
+    2.9. How does Daniel (the rich, coward, snob) meet his most deserved death?
+        b. A falling shipping container crushes him
+    2.10. Judging by where Blake, Joby, and Ollie try to escape from it, about how high do the tsunami waters reach well inland? (Hint: Building floors are ~10 feet high each; note what floor they leave the stairwell)
+        c. 100 ft
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Week 3
+
+HW
+    3.1. In Wikipedia, look up "1906 San Francisco earthquake" and answer this question: Which of the following is true about the 1906 earthquake?
+        d. All the above
+    3.2. In Wikipedia, look up "Seismic site effects" and answer this question: Which of the following will strongly amplify surface ground motion during an earthquake?
+        a. Sediments
+    3.3. In Wikipedia, look up "Modified Mercalli intensity scale" and answer this question: What do Mercalli intensities measures (don't worry about difference to modified intensities)?
+        c. The effects of an earthquake at a particular location
+    3.4. In Wikipedia, look up "Modified Mercalli intensity scale", read the intro then scroll down to the actual scale and answer this question: At what scale level will damage be great in substantial buildings, with partial collapse?
+        c. IX Violent
+    3.5. In Wikipedia, look up "Seismic hazard", read the intro then scroll down to the US seismic hazard maps and enlarge the map of peak ground acceleration, and answer this question: This map shows where seismic hazards are considered high (red/yellow regions). Which regions contain high seismic hazards?
+        d. All the above
+    3.6. In Wikipedia, look up "New Madrid Seismic Zone" and answer this question: Which of the following statements is not true?
+        c. West Lafayette, Indiana is within a couple of miles to the center of this seismic zone.
+    3.7. In Wikipedia, look up "1976 Tangshan earthquake" and answer this question: Which of the following is not true?
+        b. The earthquake was predicted, leading to a partial evacuation prior to the quake.
+    3.8. In Wikipedia, look up "2010 Haiti earthquake" and answer this question: Which of the following are true?
+        d. All the above
+    3.9. In Wikipedia, look up "List of earthquakes", read the intro then scroll down to "Deadliest earthquakes", and answer this question: True or False: Of the top 10 deadliest earthquakes, a majority were smaller than M8.
+    	True
+    3.10. In Wikipedia, look up "Earthquake prediction" and answer this question: Currently, what do most scientist say about earthquake prediction?
+        a. They are pessimistic and many think earthquake prediction is inherently impossible.
+    3.11. In Wikipedia, look up "Earthquake prediction", read the intro then scroll down to "Precursors", and answer this question: Which of the following appears to be a reliable earthquake precursor?
+        d. None have been found to be reliable for the purposes of earthquake prediction
+    3.12. In Wikipedia, look up "Foreshock" and answer this question: Why might foreshock detection be useful in predicting earthquakes?
+        b. Because they occur prior to most major (M>7) earthquakes.
+    3.13. In Wikipedia, look up "2009 L'Aquila earthquake", read the intro then scroll down to "Prosecutions", and answer this question: Why were 6 seismologists thrown in jail?
+        d. For not predicting the earthquake
+    3.14. In Wikipedia, look up "Earthquake forecasting" and answer this question: What is an earthquake forecast?
+        c. The probabilistic assessment of earthquake hazards over years or decades
+    3.15. In Wikipedia, look up "Earthquake preparedness" and answer this question: True or False: Building codes are designed to make buildings earthquake proof in the sense of them suffering zero damage.
+        False
+    3.16. In Wikipedia, look up "Earthquake warning system" and answer this question: What is an earthquake early warning system?
+        b. A system devised for notifying adjoining regions of a substantial earthquake while it is in progress.
+    3.17. In Wikipedia, look up "2008 Sichuan earthquake" and answer this question: During the Sichuan earthquake, also known as the Wenchuan earthquake, which of the following statements is true?
+        d. All the above
+    3.18. In Wikipedia, look up "Mechanical resonance" and answer this question: Which of these statements about mechanical resonance (also known as forced resonance) is true?
+        d. All the above
+    3.19. In Wikipedia, look up "Soil liquefaction" and answer this question: What is liquefaction?
+        d. The process by which water-saturated sediments act like a liquid during an earthquake.
+    3.20. In Wikipedia, look up "Seismic base isolation" and answer this question: What is the objective of seismic base isolation?
+        b. To decouple a building from the shaking ground during an earthquake.
+
+Movie
+    3.1. What do the kids fish do just before the Tangshan earthquake begins?
+        b. They jump out of their tank
+    3.2. What occurs along the horizon just before the Tangshan earthquake strikes?
+        c. The horizon lights up
+    3.3. About how long after shaking begins during the Tangshan earthquake does it take the last building collapses?
+        c. 4 minutes
+    3.4. Which of the following groups was not present during rescue efforts following the 1976 Tangshan earthquake?
+        b. Foreign aid workers
+    3.5. Why does Yuan Ni (Fang Deng's biological mother) refuse to leave Tangshan after the earthquake?
+        d. Because she cannot leave the place where her husband and daughter perished in case their spirits wish to return
+    3.6. What brings Fang Deng to Wenchuan, where destiny catches up with her?
+        a. An earthquake
+    3.7. What are the difficulties that earthquake rescue workers must endure
+        d. All of the above
+    3.8. Most of the destroyed buildings in the Tangshan and Wenchuan earthquakes were made from what material? (Don't pay any attention to the news reporter's view of what the buildings are made of - use your own observations)
+        b. brick/concrete
+    3.9. What did Fang Deng's mother place within her grave?
+        d. all of the above
+    3.10. What was the official count (as noted in the movie) of number of fatalities from the 1976 Tangshan earthquake?
+        b. 240,000
+
+-------------------------------------------------------------------------------------------------------
+
+Week 4
+
+HW
+    4.1. In Wikipedia, look up "2004 Indian Ocean earthquake and tsunami" and answer this question: Which of the following statements is true about the 2004 tsunami?
+        a. It killed about 225 thousand people making it one of the deadliest natural disasters in recorded history.
+    4.2. In Wikipedia, look up "2011 Tōhoku earthquake and tsunami", read the intro then scroll down to "Tsunami", and answer this question: Which of the following statements is true about the 2011 tsunami?
+        c. Like the 2004 Indian Ocean earthquake and tsunami, the tsunami was far more deadly and destructive than the earthquake.
+    4.3. In Wikipedia, look up "Fukushima Daiichi nuclear disaster", read the intro then scroll down to "2008: Tsunami study ignored", and answer this question: What was headquarters' response to a 2008 in-house study that identified an immediate need to better protect the facility from the possibility of tsunami waves up to 10.2 meters (33 ft) high?
+        d. Officials insisted that such a risk was unrealistic and did not take the prediction seriously.
+    4.4. In Wikipedia, look up "Tsunami" and answer this question: Which of the following can induce a tsunami?
+        d. All the above
+    4.5. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Seismicity", and answer this question: Which direction of water displacement causes a tsunami to be generated by an earthquake?
+        b. Vertical
+    4.6. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Characteristics", and answer this question: Which has a larger wavelength?
+        b. Tsunami waves
+    4.7. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Characteristics", and answer this question: Which statement best characterizes tsunami waves over deep water?
+        b. They travel very fast (over 800 kilometers per hour) with low heights (about a meter)
+    4.8. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Characteristics" and answer this question: If you were in a boat over deep water and a tsunami wave passed beneath you, how long would it take for the wave to lift your boat up and down?
+        c. 20-30 minutes
+    4.9. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Characteristics", and answer this question: Why does tsunami mean "harbor wave" in Japanese?
+        d. Because sometimes a village's fishermen would sail out and encounter no unusual waves while out at sea, then come back to find their village devastated by a huge wave.
+    4.10. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Characteristics", and answer this question: What happens to a tsunami wave as it approaches the coast and the waters become shallow?
+        b. Speed decreases and amplitude increases.
+    4.11. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Characteristics", and answer this question: True or False: A large tsunami may feature multiple waves arriving over a period of hours.
+    	True
+    4.12. In Wikipedia, look up "Tsunami", read the intro then scroll down to "Drawback", and answer this question: True or False: The crest (ridge) of a tsunami wave always arrives before the trough.
+    	False
+    4.13. In Wikipedia, look up "Seawall" and answer this question: What is a seawall?
+        c. A coastal defense to protect areas from the action of the sea.
+    4.14. In Wikipedia, look up "Deep-ocean Assessment and Reporting of Tsunamis" and answer this question: How does the DART system detect tsunamis?
+        c. An instrument detects water pressure change on the seafloor.
+    4.15. In Wikipedia, look up "1958 Lituya Bay earthquake and megatsunami" and answer this question: Which statement about the Lituya Bay tsunami is true?
+        b. It was the largest tsunami in terms of how high up on land it reached.
+    4.16. In Wikipedia, look up "Geiranger" and answer this question: What is the danger to Geiranger?
+        a. It is under constant threat from landslides that could cause a tsunami that could destroy the town.
+    4.17. In Wikipedia, look up "Volcanic tsunami" and answer this question: What of the following volcanic processes can cause a tsunami?
+        d. All the above
+    4.18. In Wikipedia, look up "Hawaiian Islands", read the intro then scroll down to "Tsunamis", and answer this question: True or False: Though Hawaii is subject to tsunamis caused by earthquakes anywhere along the Pacific shore, tsunamis may also originate from the Hawaiian Islands.
+    	True
+    4.19. In Wikipedia, look up "1883 eruption of Krakatoa" and answer this question: Which of the following statements is true?
+        d. All the above
+    4.20. In Wikipedia, look up "Chicxulub crater", read the intro then scroll down to "Effects", and answer this question: The impact, expansion of water after filling the crater, and related seismic activity spawned megatsunamis over how tall? 
+        c. 100 m
+
+Movie
+    4.1. True or False: This movie is based on a true story
+        True
+    4.2. What happens just before the tsunami hits?
+        d. All of the above
+    4.3. When it hits, how is the tsunami wave best described?
+        b. A wall of water not more than 10-15 feet high
+    4.4 About how long does the water associated with the first tsunami wave continue to come in?
+        c. many minutes to maybe even more than 10 minutes
+    4.5. How far inland did the tsunami waters reach?
+        c. a very long ways, perhaps measured in miles
+    4.6. What are the conditions at the hospital where Maria is brought?
+        d. all of the above
+    4.7. Where does Henry look for Maria and Lucas?
+        d. all of the above
+    4.8. How does Lucas help out in the hospital?
+        a. He helps people find missing family members
+    4.9. What happens to the little boy Daniel found by Maria and Lucas
+        a. He was reunited with his father
+    4.10. True or False: It is sufficient to be a good swimmer to survive a tsunami wave
+    	False
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Week 5
+
+HW
+    5.1. In Wikipedia, look up "Lava" and answer this question: What is the difference between lava and magma?
+        b. Magma is melted rock beneath the surface, lava is melted rock extruded onto the surface.
+    5.2. In Wikipedia, look up "Magma", read the intro then scroll down to "Decompression", and answer this question: What is decompression melting?
+        c. When decreasing the pressure on rocks lowers their melting temperature
+    5.3. In Wikipedia, look up "Magma", read the intro then scroll down to "Effects of water and carbon dioxide", and answer this question: What does the addition of water to hot rocks in the mantle cause?
+        c. It causes their melting (solidus) temperature to decrease
+    5.4. In Wikipedia, look up "Volcanic arc" and answer this question: In which tectonic settings is magma caused by water lowering the melting temperature of rock?
+        a. Subduction zones
+    5.5. In Wikipedia, look up "Ring of Fire" and answer this question: What is the ring of fire?
+        a. A region around much of the rim of the Pacific Ocean where many volcanic eruptions occur.
+    5.6. In Wikipedia, look up "Hotspot (geology)" and answer this question: Why do hot spots lead to a chain of volcanoes?
+        d. Because tectonics plates move over stationary hot spots
+    5.7. In Wikipedia, look up "Viscosity" and answer this question: What is viscosity a measure of?
+        b. The resistance of a fluid to flow
+    5.8. In Wikipedia, look up "Shield volcano" and answer this question: What is the viscosity of the lava that forms shield volcanoes?
+        a. Low viscosity (highly fluid)
+    5.9. In Wikipedia, look up "Tephra" and answer this question: What is Tephra?
+        b. Fragmental material (as opposed to lava) produced by a volcanic eruption
+    5.10. In Wikipedia, look up "Stratovolcano" and answer this question: How do stratovolcanoes formed?
+        c. By alternate lava flows and tephra
+    5.11. In Wikipedia, look up "Types of volcanic eruptions" and answer this question: Which is the calmest type of volcanic event?
+        a. Hawaiian
+    5.12. In Wikipedia, look up "Types of volcanic eruptions" and answer this question: Which is the most explosive type of volcanic eruption?
+        d. Plinian
+    5.13. In Wikipedia, look up "Soft drink", read the intro then scroll down to "Carbonated drinks" and answer this question: Carbonated drinks contain dissolved carbon dioxide, mean that the carbon dioxide is in liquid form due to them being under pressure. What happens when the pressure is removed? (In case you are wondering, this process is exactly analogous to what happens to dissolved gas in magma when the pressure on the magma is reduced.)
+        b. The carbon dioxide is released from the solution as small bubbles.
+    5.14. In Wikipedia, look up "Pumice" and answer this question: What is pumice?
+        d. A volcanic rock that consists of highly vesicular rough textured volcanic glass.
+    5.15. In Wikipedia, look up "Volcanic ash" and answer this question: What is a volcanic ash?
+        c. Fragments of rock, minerals, and volcanic glass, created during volcanic eruptions and measuring less than 2 mm in diameter.
+    5.16. In Wikipedia, look up "Lahar" and answer this question: What is a lahar?
+        b. A violent type of mudflow that flows down from a volcano.
+    5.17. In Wikipedia, look up "Volcanic bomb" and answer this question: What is a volcanic bomb?
+        e. A mass of molten rock larger than 2.5 inches in diameter formed when a volcano ejects lava during an eruption
+    5.18. In Wikipedia, look up "Pyroclastic flow" and answer this question: What is a pyroclastic flow?
+        a. A fast-moving current of hot gas and volcanic matter that flows along the ground away from a volcano.
+    5.19. In Wikipedia, look up "Lake Nyos disaster" and answer this question: What killed almost 2000 people in Cameroon in 1986?
+        c. They suffocated from a cloud of carbon dioxide released from a volcanic lake.
+    5.20. In Wikipedia, look up "Harmonic tremor" and answer this question: What causes a harmonic tremor?
+        a. Underground movement of magma
+
+Movie
+    5.1. In the opening credit scene, what falls from the sky?
+        d. all of the above
+    5.2. About how much time passes from when the teenagers in the hot spring feel the heat rising, to the time that the water becomes scalding hot?
+        a. several seconds
+    5.3. Why might you not want to put a town on alert for a possible eruption after several observations suggest potential volcanic activity?
+        c. It could have a negative economic impact on the local economy.
+    5.4. Why do the volcanologists fly a helicopter over the volcano?
+        c. To measure how much volcanic gas is being released.
+    5.5. What do the volcanologists send down into the volcano?
+        d. all of the above
+    5.6. How is the ground shaking that accompanies the initial eruption of Dante's Peak best described?
+        d. A large earthquake that causes some major damage
+    5.7. What happens to the Dante's Peak lake after the eruption that kills the fish?
+        d. It becomes very acidic
+    5.8. What does Harry do when the road is blocked by a lava flow?
+        a. He drives over it (no really, he drives over it!)
+    5.9. What volcanic hazard does Paul (Harry's boss) succumb to?
+        c. a mud flow (also called a lahar)
+    5.10. Which volcanic hazard finally destroys the town of Dante's Peak?
+        a. a pyroclastic flow
+
+----------------------------------------------------------------------------------------
+
+Week 6
+
+HW
+    6.1. In Wikipedia, look up "Mount Vesuvius" and answer this question: What kind of volcano is Mount Vesuvius?
+        a. It is a stratovolcano
+    6.2. In Wikipedia, look up "Pompeii" and answer this question: Why is Pompeii interesting to study?
+        d. All the above
+    6.3. In Wikipedia, look up "Pompeii", read the intro then scroll down to "Eruption of Vesuvius", and answer this question: What is the currently theory as to the main cause of death of the inhabitants of Pompeii?
+        b. Exposure to extreme heat from pyroclastic flows
+    6.4. In Wikipedia, look up "Pompeii", read the intro then scroll down to "Rediscovery and excavations", and answer this question: What caused the numerous voids found in the ash layers?
+        c. Spaces left by the decomposed bodies
+    6.5. In Wikipedia, look up "Eruption of Mount Vesuvius in 79 AD" and answer this question: Which of the following is a characteristics of the eruption?
+        d. All the above
+    6.6. In Wikipedia, look up "Pompeii", read the intro then scroll down to "Eruption of Vesuvius", and answer this question: Who wrote his eyewitness account of the destruction of Pompeii by Vesuvius?
+        a. Pliny the Younger
+    6.7. In Wikipedia, look up "Yellowstone National Park" and answer this question: Which of the following statement is true about Yellowstone?
+        d. All the above
+    6.8. In Wikipedia, look up "Geyser" and answer this question: Where does the heat that leads to the steam that powers the geyser generally originate from?
+        a. A magma chamber
+    6.9. In Wikipedia, look up "Yellowstone hotspot", click to enlarge the figure with the caption "Past locations of the hotspot in millions of years", and answer this question: We know that Yellowstone is a hot spot because it the latest in a chain of volcanoes. How long ago did the first volcanic eruption occur in this chain?
+        c. About 16 million years ago
+    6.10. In Wikipedia, look up "Volcanic Explosivity Index", and answer this question: The Volcano Explosivity Index (VEI) rates the relative explosiveness of volcanoes. Which of the following is this rating based on?
+        b. The volume of explosive products
+    6.11. In Wikipedia, look up "Caldera" and answer this question: True or False: A caldera forms when a volcanic eruption explodes the top off of a volcano.
+    	False
+    6.12. In Wikipedia, look up "Crate Lake, OR" (make sure this is the one about the lake in Oregon as there are several) and answer this question: Which of the following are true about Crater Lake?
+        d. All the above
+    6.13. In Wikipedia, look up "Yellowstone Volcano Observatory", and answer this question: Which of the following is not part of the purpose of the observatory?
+        a. To view stars in far off galaxies.
+    6.14. In Wikipedia, look up "Mount Pinatubo" and answer this question: Aerosol (small particles) ejected by the 1991 eruption of Mount Pinatubo in Philippines blocked sunlight leading to global cooling. How much did the Earth cool in the years following the eruption?
+        a. 0.5 deg C
+    6.15. In Wikipedia, look up "1815 eruption of Mount Tambora" and answer this question: Which of the following is not true about the 1815 eruption of Mount Tambora?
+        b. It had an explosive rating of VEI 8.
+    6.16. In Wikipedia, look up "Year Without a Summer" and answer this question: The 1815 eruption of Mount Tambora caused global cooling in 1816 which is referred to as the Year without a summer. Which of the following monsters were not created by their authors out of the gloom of that summer?
+        c. Werewolves
+    6.17. In Wikipedia, look up "Volcanic winter" and answer this question: What is a volcanic winter?
+        b. A reduction in global temperatures caused by volcanic ash and droplets of sulfuric acid obscuring the Sun.
+    6.18. In Wikipedia, look up "Toba catastrophe theory" and answer this question: What is the bottleneck theory?
+        d. That global cooling associated with the Toba eruption reduced human populations to a dangerously small number.
+    6.19. In Wikipedia, look up "Flood basalt" and answer this question: What of the following is true about flood basalts?
+        d. All the above
+    6.20. In Wikipedia, look up "Deccan Traps", and answer this question: True or False: The dinosaurs went extinct 65 million years ago during the Cretaceous-Paleogene extinction event. Recent research suggests that these extinctions might have been caused by a combination of an asteroid impact and a large igneous province (lava flow) initiated by the impact.
+    	True
+
+Movie
+    6.1. What is Yellowstone's "beating heart"?
+        d. the large magma chamber that lies beneath
+    6.2. What did the M6.9 earthquake in Yellowstone trigger?
+        b. A landslide and tsunami
+    6.3. How many very large eruptions has Yellowstone experienced in the past 2.1 million years?
+        c. 3
+    6.4. How do the seismologists at Yellowstone understand the size of the magma chamber that lies beneath?
+        a. Using seismic tomography
+    6.5. What is harmonic tremor?
+        b. A seismographic reading that indicates magma is on the move
+    6.6. During the last big press conferences, why does Rick Lieberman, the head volcanologist at Yellowstone tell the public that there is no evidence that a supereruption could be imminent?
+        c. Because he was told to lie to avoid panic
+    6.7. What catches up to and destroys the speeding pickup truck carrying USGS employees?
+        b. a pyroclastic surge
+    6.8. What forces Rick Lieberman's plane to make an emergency landing?
+        c. An ash cloud
+    6.9. What happens on Day 7 of the eruption?
+        d. All of the above
+    6.10. What were the global effects a month after the supereruption had stopped?
+        b. Temperatures plummeted world-wide
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Week 7
+
+HW
+    7.1. In Wikipedia, look up "Fire" and answer this question: True or False: Water vapor is a primary component produced by fire.
+    	True
+    7.2. In Wikipedia, look up "Fire" and answer this question: Which of the following is not a component of the fire tetrahedron?
+        a. Nitrogen
+    7.3. In Wikipedia, look up "Wildfire", read the intro then scroll down to "Physical properties", and answer this question: What does the pyrolysis of wood release?
+        b. Flammable gas
+    7.4. In Wikipedia, look up "Wildfire", read the intro then scroll down to "Spread", and answer this question: Which of the following influences how a wildfire will spread?
+        d. All the above
+    7.5. In Wikipedia, look up "Wildfire", read the intro then scroll down to "Spread", and answer this question: Which of the following types of fire involves low-lying vegetation?
+        b. Surface
+    7.6. In Wikipedia, look up "Wildfire", read the intro then scroll down to "Spread", and answer this question: What is a crown fire?
+        d. Fires in tree canopies
+    7.7. In Wikipedia, look up "Great Fire of 1910" and answer this question: Which of the following is not true regarding the Great Fire of 1910?
+        d. It was caused exclusively by lightning.
+    7.8. In Wikipedia, look up "Great Fire of 1910", read the intro then scroll down to "Legacy", and answer this question: Which of the following was a legacy of this fire?
+        b. It was decided that the Forest Service should prevent and battle every wildfire.
+    7.9. In Wikipedia, look up "Ed Pulaski" and answer this question: Which of the following did Ed Pulaski accomplish?
+        d. All the above
+    7.10. In Wikipedia, look up "Wildfire", read the intro then scroll down to "Prevention", and answer this question: True or False: North American firefighting policies permit naturally caused fires to burn to maintain their ecological role, so long as the risks of escape into high-value areas are mitigated.
+    	True
+    7.11. In Wikipedia, look up "Wildfire suppression", read the intro then scroll down to "Indirect attack", and answer this question: Which of the following is not an example of an indirect attack?
+        b. Wetting a fire
+    7.12. In Wikipedia, look up "Hotshot crew" and answer this question: Which is not a description of a hotshot crew?
+        b. They are often inserted at the site of the fire by parachute.
+    7.13. In Wikipedia, look up "Firebreak" and answer this question: What is a firebreak (or fireline)?
+        a. A gap in vegetation that acts as a barrier to slow or stop the progress of a wildfire.
+    7.14. In Wikipedia, look up "Controlled burn", read the intro then scroll down to "Back burning" and answer this question: Which of the following is an objective or consequence of a controlled burn?
+        d. All the above
+    7.15. In Wikipedia, look up "Aerial firefighting", read the intro then scroll down to "Water bombers", and answer this question: True or False: One of the major drawbacks of fixed-wing air tankers is that they all need to refill by returning to a properly equipped airbase.
+    	False
+    7.16. In Wikipedia, look up "Aerial firefighting", read the intro then scroll down to "Helicopters", and answer this question: Which body of water can helitankers not fill their buckets in?
+        d. Helitankers can use all the above to refill their bucket
+    7.17. In Wikipedia, look up "Aerial firefighting", read the intro then scroll down to "Tactics and capabilities", and answer this question: Where are fire retardants usually dropped by aerial firefighters?
+        c. In front or around a moving fire to create a firebreak.
+    7.18. In Wikipedia, look up "Smokejumper" and answer this question: What are smoke jumpers?
+        a. Specially trained wildland firefighters who provide an initial attack response on remote wildland fires by being dropped in by parachute.
+    7.19. In Wikipedia, look up "Fire shelter" and answer this question: What is a fire shelter?
+        d. A safety device of last resort used by wildland firefighters when trapped by wildfires.
+    7.20. In Wikipedia, look up "Yarnell Hill Fire" and answer this question: What was special about the Yarnell Hill Fire that a movie was made to recount what happened?
+        b. It overran and killed 19 members of the Granite Mountain Hotshots.
+
+Movie
+    7.1. Near the beginning of the movie, where does the helicopter refill its water tanks from?
+        b. A swimming pool
+    7.2. What is the purpose of a fire shelter deployment?
+        a. To trap breathable air when caught in a burnover
+    7.3. The Granite Mountain Hotshots were the first municipal hotshot crew in the country, meaning the only fire crew paid by a city to be certified as hotshots – a Type I crew. Before being certified they were a Type II crew. What does that difference mean when fighting a wildfire?
+        c. Type II crews cannot directly engage a wildfire
+    7.4. What is the purpose of a backburn?
+        d. To remove fuel (trees and brush) in front of a moving fire to starve it
+    7.5. How do the hotshots fight the dragon fire? (That is the one where an air tanker drops water on them and destroys a cabin).
+        b. They drive the fire toward a canyon
+    7.6. Fighting the Doce Fire, how do the hotshots protect the 2000-year-old Juniper tree (and their town)?
+        d. All of the above
+    7.7. Fighting the Yarnell Fire, what happens to the backburn that the hotshots set?
+        a. It gets put out by an airtanker drop
+    7.8. In the Yarnell Fire, what happens when the Granite Mountain hotshots move from the black (safe burned area) toward the ranch (another safety zone)?
+        b. They get caught by the fast-moving fire the surprises them on their way down
+    7.9. Why doesn't the air tanker make a drop to save the Granite Mountain Hotshots?
+        c. Because they don't' know where the hotshots are located
+    7.10. Why did one of the Granite Mountain Hotshots survive?
+        d. Because he was not with his crew when they were overrun

@@ -1,0 +1,13 @@
+#info {
+  padding: 15px;
+}
+
+#blok{
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+

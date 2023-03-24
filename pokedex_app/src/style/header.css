@@ -1,0 +1,25 @@
+#container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+}
+
+#name {
+  order: 0;
+  text-align: center;
+  font-size: 2em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 0px;
+  text-transform: capitalize; /* capitalize the first letter of the first word */
+}
+
+#hp {
+  order: 1;
+}
+
+img {
+  width: 100%;
+}

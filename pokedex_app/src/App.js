@@ -1,4 +1,5 @@
 import { Card } from './components/card';
+import {Header } from './components/title';
 import Pika from './assets/pika.json';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
 
   return (
     <>
+      <Header />
       <Card pokemon = {pika}/>
     </>
   );

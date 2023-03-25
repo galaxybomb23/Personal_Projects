@@ -1,4 +1,4 @@
-#card {
+.card {
   width: 300px;
   height: 500px;
   margin: auto;
@@ -9,7 +9,7 @@
 }
 
 .electric {
-  background-color: hsl(60, 100%, 50%);
+  background-color: hsl(53, 100%, 53%);
 }
 
 .water {
@@ -19,3 +19,62 @@
 .fire {
   background-color: hsl(0, 100%, 50%);
 }
+
+.grass {
+  background-color: hsl(120, 100%, 50%);
+}
+
+.ice {
+  background-color: hsl(180, 100%, 50%);
+}
+
+.rock {
+  background-color: hsl(0, 1%, 51%);
+}
+
+.ground {
+  background-color: hsl(28, 93%, 45%);
+}
+
+.flying{
+  background-color: hsl(207, 100%, 50%);
+}
+
+.psychic {
+  background-color: hsl(300, 100%, 50%);
+}
+
+.bug {
+  background-color: hsl(60, 100%, 50%);
+}
+
+.poison {
+  background-color: hsl(300, 100%, 50%);
+}
+
+.fighting {
+  background-color: hsl(0, 0%, 0%);
+}
+
+.dark {
+  background-color: hsl(0, 0%, 0%);
+}
+
+.ghost {
+  background-color: hsla(0, 2%, 40%, 0.521);
+}
+
+.dragon {
+  background-color: hsl(314, 94%, 26%);
+}
+
+.fairy {
+  background-color: hsla(311, 96%, 67%, 0.483);
+}
+
+.normal {
+  background-color: hsl(0, 0%, 0%);
+}
+
+
+

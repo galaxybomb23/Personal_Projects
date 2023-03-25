@@ -7,7 +7,7 @@ export function Card(props) {
   const type = props.pokemon.type;
 
   return (
-    <div id="card" type={type}>
+    <div className={`card ${type}`}>
       <Header pokemon={props.pokemon} />
       <Info pokemon={props.pokemon} />
     </div>

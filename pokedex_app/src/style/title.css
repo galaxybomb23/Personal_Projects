@@ -1,27 +1,56 @@
+/* Header */
 header {
+  width: 100%;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #9b5d5d;
-  height: 80px;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #f44336;
+  height: 100px;
+  padding: 10px;
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.25);
 }
 
+/* Title */
 .title {
+  height: 100%;
   font-size: 28px;
   font-weight: bold;
-  text-align: center;
   margin-right: 10px;
-}
-
-.logo {
-  width: 80px;
-  height: 80px;
+  flex-grow: 1;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.title h1 {
+  color: #000000;
+  margin: 0;
+}
+
+/* Logo */
+.logo {
+  width: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-width: 5px;
 }
 
 .logo img {
-  max-width: 100%;
-  max-height: 100%;
+  margin-left: 0;
+  max-height: 150px;
+  object-fit: contain;
+}
+
+/* Media queries */
+@media only screen and (max-width: 768px) {
+  .title {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .title {
+    font-size: 16px;
+  }
 }

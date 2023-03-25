@@ -1,13 +1,17 @@
 import React from "react";
-import "../style/header.css";
+import "../style/title.css";
+import ImagePath from "../assets/logo_white.png";
 
 export function Header() {
   return (
-    <div class="header">
-      <div class="title">Pokedex</div>
-      <div class="logo img">
-        <img src="../assets/logo_white.png" alt="Pokedex logo" />
+    <header>
+        <div className="logo">
+          <img src={ImagePath} alt="Logo" />
       </div>
-    </div>
+      <div className="title">
+        <h1>Pokedex</h1>
+      </div>
+
+    </header>
   );
 }

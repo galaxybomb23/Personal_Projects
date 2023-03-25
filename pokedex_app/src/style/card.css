@@ -1,8 +1,15 @@
-.card {
-  width: 300px;
-  height: 500px;
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1000px;
   margin: auto;
-  margin-top: 50px;
+}
+
+.card {
+  width: calc(20% - 20px); /* Each card takes up 20% of the width with 20px of margin in between */
+  height: 500px;
+  margin-bottom: 20px;
   background-color: hsl(0, 0%, 74%);
   border-radius: 15px;
   filter: drop-shadow(0 0 20px rgba(0, 0, 0, 0.335)); /* x, y, blur, color */
@@ -75,6 +82,3 @@
 .normal {
   background-color: hsl(0, 0%, 0%);
 }
-
-
-

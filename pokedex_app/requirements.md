@@ -11,5 +11,5 @@ Must Have:
 2. Pick 2:
     [ ]a. Allow the user to store no more than 6 pokemon in a "team"
         [ ]i. The "team" must be stored on Firebase
-    [ ]b. Utilize Promises and callbacks instead of async/await
-    [ ]c. Implement at least 3 anonymous or arrow functions
+    [X]b. Utilize Promises and callbacks instead of async/await //info
+    [X]c. Implement at least 3 anonymous or arrow functions //info, card

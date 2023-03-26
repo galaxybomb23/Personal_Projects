@@ -18,7 +18,11 @@ export function Header(props) {
               </h1>
             </div>
           </div>
-          <img src={ImagePath} alt="Pikachu in a field"></img>
+          <div className="img-container">
+          <img src={props.pokemon.imagenorm} alt="Picture of normal pokemon"></img>
+
+          <img src = {props.pokemon.imgshiny} alt="Picture of shiny pokemon"></img>
+          </div>
         </div>
       );
 }

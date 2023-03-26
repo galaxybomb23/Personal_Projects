@@ -1,11 +1,11 @@
-import { CardList } from "./components/Cardlist";
+import { Card } from "./components/card";
 import { Header } from "./components/title";
 
 function App() {
   return (
     <>
       <Header />
-      <CardList />
+      <Card />
     </>
   );
 }

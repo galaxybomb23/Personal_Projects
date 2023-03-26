@@ -2,83 +2,110 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  max-width: 1000px;
+  align-items: center;
+  max-width: 350px;
   margin: auto;
 }
 
 .card {
-  width: calc(20% - 20px); /* Each card takes up 20% of the width with 20px of margin in between */
-  height: 500px;
+  height: 550px;
+  width: 350px;
   margin-bottom: 20px;
   background-color: hsl(0, 0%, 74%);
   border-radius: 15px;
   filter: drop-shadow(0 0 20px rgba(0, 0, 0, 0.335)); /* x, y, blur, color */
 }
-
 .electric {
-  background-color: hsl(53, 100%, 53%);
+background-color: hsl(52, 100%, 77%);
 }
 
 .water {
-  background-color: hsl(210, 100%, 50%);
+background-color: hsl(207, 90%, 75%);
 }
 
 .fire {
-  background-color: hsl(0, 100%, 50%);
+background-color: hsl(10, 100%, 80%);
 }
 
 .grass {
-  background-color: hsl(120, 100%, 50%);
+background-color: hsl(120, 40%, 80%);
 }
 
 .ice {
-  background-color: hsl(180, 100%, 50%);
+background-color: hsl(180, 90%, 80%);
 }
 
 .rock {
-  background-color: hsl(0, 1%, 51%);
+background-color: hsl(0, 0%, 78%);
 }
 
 .ground {
-  background-color: hsl(28, 93%, 45%);
+background-color: hsl(28, 70%, 75%);
 }
 
 .flying{
-  background-color: hsl(207, 100%, 50%);
+background-color: hsl(207, 70%, 75%);
 }
 
 .psychic {
-  background-color: hsl(300, 100%, 50%);
+background-color: hsl(300, 50%, 80%);
 }
 
 .bug {
-  background-color: hsl(60, 100%, 50%);
+background-color: hsl(70, 60%, 80%);
 }
 
 .poison {
-  background-color: hsl(300, 100%, 50%);
+background-color: hsl(290, 60%, 80%);
 }
 
 .fighting {
-  background-color: hsl(0, 0%, 0%);
+background-color: hsl(0, 0%, 60%);
 }
 
 .dark {
-  background-color: hsl(0, 0%, 0%);
+background-color: hsl(0, 0%, 45%);
 }
 
 .ghost {
-  background-color: hsla(0, 2%, 40%, 0.521);
+background-color: hsla(0, 2%, 60%, 0.6);
 }
 
 .dragon {
-  background-color: hsl(314, 94%, 26%);
+background-color: hsl(314, 80%, 60%);
 }
 
 .fairy {
-  background-color: hsla(311, 96%, 67%, 0.483);
+background-color: hsla(311, 80%, 85%, 0.6);
 }
 
 .normal {
-  background-color: hsl(0, 0%, 0%);
+background-color: hsl(0, 0%, 85%);
+}
+
+.buttondiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  background-color: #636463b0; /* Green */
+  border: none;
+  border-radius: 13px;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: box-shadow 0.1s ease-in-out;
+}
+
+button:hover {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  color: white;
+  background-color: black;
+  font-weight: bolder;
 }

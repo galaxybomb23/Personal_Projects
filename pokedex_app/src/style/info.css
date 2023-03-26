@@ -1,13 +1,41 @@
-#info {
-  padding: 15px;
+  #info {
+    padding: 15px;
+  }
+
+  #blok{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    word-wrap: break-word;
+  }
+
+
+#ability {
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-#blok{
-  display: flex;
-  font-family: 'Courier New', Courier, monospace;
-  flex-direction: column;
-  justify-content: center;
-  height: 100%;
+#weight {
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
+#size {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 6px;
+  overflow: hidden;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
 

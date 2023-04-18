@@ -1,6 +1,5 @@
 import React from 'react';
 import '../style/header.css';
-import ImagePath from '../img/pikachu-field.jpg';
 
 export function Header(props) {
       // Return some JSX here...

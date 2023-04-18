@@ -4,14 +4,13 @@ import { Info } from "./info";
 import "../style/card.css";
 
 export function Card() {
-  const [pokemon, setPokemon] = useState([]);
   const [pokemonList, setPokemonList] = useState([]);
   const [pokemonIndex, setPokemonIndex] = useState(0);
 
-  const getAPIData = async () => {
+  const fetchPokemonData = async () => {
     try {
       const response = await fetch(
-        "https://pokeapi.co/api/v2/pokemon?limit=10000&offset=0%22"
+        "https://pokeapi.co/api/v2/pokemon?limit=10000&offset=0"
       );
       const data = await response.json();
       const results = data.results;
@@ -41,45 +40,46 @@ export function Card() {
         })
       );
       setPokemonList(pokemonList);
-      setPokemon(pokemonList[pokemonIndex]);
     } catch (error) {
       console.log(error);
     }
   };
 
   useEffect(() => {
-    getAPIData();
+    fetchPokemonData();
   }, []);
 
   const handlePrevClick = () => {
-    setPokemonIndex(pokemonIndex - 1);
-    setPokemon(pokemonList[pokemonIndex - 1]);
+    setPokemonIndex((index) => index - 1);
   };
 
   const handleNextClick = () => {
-    setPokemonIndex(pokemonIndex + 1);
-    setPokemon(pokemonList[pokemonIndex + 1]);
+    setPokemonIndex((index) => index + 1);
   };
+
+  const pokemon = pokemonList[pokemonIndex];
 
   return (
     <div className="card-container">
-      <div className={`card ${pokemon.type}`}>
-        <Header pokemon={pokemon} />
-        <Info pokemon={pokemon} />
+      {pokemon && (
+        <div className={`card ${pokemon.type}`}>
+          <Header pokemon={pokemon} />
+          <Info pokemon={pokemon} />
 
-        <div className="buttondiv">
-          <button onClick={handlePrevClick} disabled={pokemonIndex === 0}>
-            Prev
-          </button>
-          <button
-            className="buttonbody"
-            onClick={handleNextClick}
-            disabled={pokemonIndex === pokemonList.length - 1}
-          >
-            Next
-          </button>
+          <div className="buttondiv">
+            <button onClick={handlePrevClick} disabled={pokemonIndex === 0}>
+              Prev
+            </button>
+            <button
+              className="buttonbody"
+              onClick={handleNextClick}
+              disabled={pokemonIndex === pokemonList.length - 1}
+            >
+              Next
+            </button>
+          </div>
         </div>
-      </div>
+      )}
     </div>
   );
 }

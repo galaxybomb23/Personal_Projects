@@ -52,3 +52,5 @@ clean:
 	@rm -f analysis.txt
 	@echo "Cleaned up"
 
+submit:
+	368submit <HW0#> $(APP)
